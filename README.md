@@ -4,4 +4,3 @@ If you've ever felt a burning desire to navigate to [hacknehs.org](hacknehs.org)
 Installation: pip install hacknehs
 
 Usage: import hacknehs
-
